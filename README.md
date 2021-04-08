@@ -35,7 +35,7 @@ The sequence of steps:
 - BlackjackGame.java -> runs the logic loop for the game
 - User.java -> contains the parent class for both Dealer.java and player.java classes, contains methods that both dealer and player classes use
 - Dealer.java -> contains the class for creating dealers
-- player.java -> contains the class for creating players
+- Player.java -> contains the class for creating players
 - Card.java -> creates the card objects for the deck
 - Deck.java -> creates the deck object with all 52 cards and 4 suits
 
