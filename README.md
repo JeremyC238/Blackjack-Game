@@ -13,6 +13,7 @@ There are two different kinds of players involved:
 - The player
 - The dealer
 
+
 - The player places bet for round
 - The dealer receives two cards, one of them is hidden until the end
 - The player receives two cards
