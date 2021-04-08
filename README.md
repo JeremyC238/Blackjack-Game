@@ -31,6 +31,14 @@ The sequence of steps:
 - Cannot play on two aces after they are split
 - Can double a hand resulting from a split
 
+# Files for the program
+- BlackjackGame.java -> runs the logic loop for the game
+- User.java -> contains the parent class for both Dealer.java and player.java classes, contains methods that both dealer and player classes use
+- Dealer.java -> contains the class for creating dealers
+- player.java -> contains the class for creating players
+- Card.java -> creates the card objects for the deck
+- Deck.java -> creates the deck object with all 52 cards and 4 suits
+
 # Required functionality
 - game loop logic currently only runs once, needs to to be improved until players run out of money
 - player betting currently not utilized in the game loop logic
